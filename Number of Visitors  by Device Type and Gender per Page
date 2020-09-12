@@ -1,4 +1,6 @@
-# visitors on home page, gender, device
+Number of Visitors  by Device Type and Gender per Page
+
+# visitors on home page
 SELECT device, sex, COUNT(*)
 FROM user_table
 INNER JOIN home_page_table 
