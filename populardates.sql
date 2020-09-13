@@ -11,11 +11,11 @@ INNER JOIN home_page_table
 ON 	user_table.user_id = home_page_table.user_id
 GROUP BY 3;
 
-date	              COUNT Month
-2015-01-03 00:00:00	22600	Jan
-2015-02-09 00:00:00	22600	Feb
-2015-03-05 00:00:00	22600	Mar
-2015-04-24 00:00:00	22600	Apr
+# date	                COUNT Month
+# 2015-01-03 00:00:00	22600	Jan
+# 2015-02-09 00:00:00	22600	Feb
+# 2015-03-05 00:00:00	22600	Mar
+# 2015-04-24 00:00:00	22600	Apr
 
 
 SELECT date, COUNT(date),
@@ -31,11 +31,11 @@ INNER JOIN search_page_table
 ON 	user_table.user_id = search_page_table.user_id
 GROUP BY 3;
 
-date	              COUNT	Month
-2015-01-28 00:00:00	13554	Jan
-2015-02-22 00:00:00	13687	Feb
-2015-03-15 00:00:00	8879	Mar
-2015-04-26 00:00:00	9080	Apr
+# date	                COUNT	Month
+# 2015-01-28 00:00:00	13554	Jan
+# 2015-02-22 00:00:00	13687	Feb
+# 2015-03-15 00:00:00	8879	Mar
+# 2015-04-26 00:00:00	9080	Apr
 
 
 
