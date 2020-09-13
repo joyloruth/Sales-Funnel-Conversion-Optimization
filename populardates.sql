@@ -11,7 +11,7 @@ INNER JOIN home_page_table
 ON 	user_table.user_id = home_page_table.user_id
 GROUP BY 3;
 
-# date	                COUNT Month
+# date	                COUNT  Month
 # 2015-01-03 00:00:00	22600	Jan
 # 2015-02-09 00:00:00	22600	Feb
 # 2015-03-05 00:00:00	22600	Mar
@@ -73,7 +73,7 @@ INNER JOIN payment_confirmation_table
 ON 	user_table.user_id = payment_confirmation_table.user_id
 GROUP BY 3;
 
-# date	              COUNT Month
+# date	              COUNT  Month
 # 2015-01-29 00:00:00	189	Jan
 # 2015-02-05 00:00:00	173	Feb
 # 2015-03-03 00:00:00	44	Mar
