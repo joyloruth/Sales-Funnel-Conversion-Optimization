@@ -52,11 +52,11 @@ INNER JOIN payment_page_table
 ON 	user_table.user_id = payment_page_table.user_id
 GROUP BY 3;
 
-date	COUNT(date)	Month
-2015-01-15 00:00:00	2390	Jan
-2015-02-13 00:00:00	2412	Feb
-2015-03-17 00:00:00	631	Mar
-2015-04-10 00:00:00	597	Apr
+# date	                COUNT	Month
+# 2015-01-15 00:00:00	2390	Jan
+# 2015-02-13 00:00:00	2412	Feb
+# 2015-03-17 00:00:00	631	Mar
+# 2015-04-10 00:00:00	597	Apr
 
 
 
@@ -73,8 +73,8 @@ INNER JOIN payment_confirmation_table
 ON 	user_table.user_id = payment_confirmation_table.user_id
 GROUP BY 3;
 
-date	COUNT(date)	Month
-2015-01-29 00:00:00	189	Jan
-2015-02-05 00:00:00	173	Feb
-2015-03-03 00:00:00	44	Mar
-2015-04-21 00:00:00	46	Apr
+# date	              COUNT Month
+# 2015-01-29 00:00:00	189	Jan
+# 2015-02-05 00:00:00	173	Feb
+# 2015-03-03 00:00:00	44	Mar
+# 2015-04-21 00:00:00	46	Apr
