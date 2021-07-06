@@ -86,27 +86,27 @@ Half of the people that visit the e-commerce store do not make a search or explo
 
 <h2>Solution:</h2>
 
-Consider cosmetic changes to the website layout in order to make the website responsive and more inviting for the desktop user.
-Display the most searched and popular purchased items on the homepage. Provide clickable links of suggestions to customer to take the guess work out of their visit.
-Use heat mapping to find the most used areas of the web page and make those areas easier to access.
+<li>Consider cosmetic changes to the website layout in order to make the website responsive and more inviting for the desktop user.</li>
+<li>Display the most searched and popular purchased items on the homepage. Provide clickable links of suggestions to customer to take the guess work out of their visit.</li>
+<li>Use heat mapping to find the most used areas of the web page and make those areas easier to access.</li>
  
-
+<br></br>
 From the desktop visitors who made a search on the website, 90% of them did not want to fill out the payment information. This significant drop of interest in customers who have searched the website maybe due to the lack of interest in the items or the price point. Another reason may be after seeing the total order amount that now includes unexpected additional costs or the taxes and shipping. However, the biggest reason for the steep decline is due to security, or a perceived lack thereof. Desktops are the most vulnerable devices to information-stealing malware, so it is understandable why a customer would hesitant to provide personal information online.
 
 <h2>Solution:</h2>
 
-Supply items that are most in demand and that have a competitive price point for the market in that industry.
-Be upfront with the customer about delivery costs and have a running total displayed in the shopping cart.
-Implement user-friendly privacy policies, an encrypted URL (https) that comes with a SSL certificate and an “Secure” lock icon to reassure reluctant customers their personal information is protected.
- In addition to credit or debit cards, provide alternative methods of making online payments. Some options include but are not limited to Paypal, Bitcoin or Apple Pay.
+<li>Supply items that are most in demand and that have a competitive price point for the market in that industry.</li>
+<li>Be upfront with the customer about delivery costs and have a running total displayed in the shopping cart.</li>
+<li>Implement user-friendly privacy policies, an encrypted URL (https) that comes with a SSL certificate and an “Secure” lock icon to reassure reluctant customers their personal information is protected.</li>
+<li>In addition to credit or debit cards, provide alternative methods of making online payments. Some options include but are not limited to Paypal, Bitcoin or Apple Pay.</li>
  
-
+<br></br>
 A vast majority of the customers who made it to the payment page continued on to receive a confirmation. The remaining  4.9% of them do not reach it mostly likely due to technical issues. They have entered some personal information incorrectly or the website is experiencing errors.
 
 <h2>Solution:</h2>
 
-Implement prompts that informs the customer of any possible errors they may have made in the entry of their personal information. (mismatch spelling, address associated with card, expired card)
-Include a contact/tech support number, chat bot, FAQ or contact form so that I customer can easily get assistance and complete their order.
+<li>Implement prompts that informs the customer of any possible errors they may have made in the entry of their personal information. (mismatch spelling, address associated with card, expired card)</li>
+<li>Include a contact/tech support number, chat bot, FAQ or contact form so that I customer can easily get assistance and complete their order.</li>
 
 # 7.0 Conclusion
 By making the aforementioned adjustments, the e-commerce website can increase the conversion rate of desktop users from the homepage to the confirmation page by a up to 98% .
