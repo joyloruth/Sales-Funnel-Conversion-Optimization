@@ -1,5 +1,6 @@
 # Sales Funnel Conversion Optimization
 OBJECTIVE: With SQL queries I will analyze event flow to gain insights into the potential buyers’ behavior. A funnel is a marketing model which illustrates the theoretical customer journey towards the purchase of a product or service. Oftentimes, we want to track how many users complete a series of steps and know which steps have the most number of users giving up.  The goal of this project is to optimize the sales funnel of an e-commerce website.
+
 ### Code and Resources
 
 <li>Python 3</li>
@@ -80,7 +81,7 @@ When accessing the e-commerce website visitors are using one of two devices whic
 
 According to an article in Broadband Search, as of 2019, 55.9 percent of the time spent on websites comes from desktop users, compared to 40.1 percent for mobile users. While more people are accessing the web from mobile devices than desktops, people still tend to spend more time on sites when they access them from non-mobile devices.
 
-#6.0 How Can the Sales Funnel Be Optimized?
+# 6.0 How Can the Sales Funnel Be Optimized?
 Half of the people that visit the e-commerce store do not make a search or explore the website. 50% of the visitors completely abandon the site before even browsing for any items. This leads to the assumption there may be a lack of aesthetic allure or technical issues.
 
 <h2>Solution:</h2>
@@ -106,3 +107,6 @@ A vast majority of the customers who made it to the payment page continued on to
 
 Implement prompts that informs the customer of any possible errors they may have made in the entry of their personal information. (mismatch spelling, address associated with card, expired card)
 Include a contact/tech support number, chat bot, FAQ or contact form so that I customer can easily get assistance and complete their order.
+
+# 7.0 Conclusion
+By making the aforementioned adjustments, the e-commerce website can increase the conversion rate of desktop users from the homepage to the confirmation page by a up to 98% .
